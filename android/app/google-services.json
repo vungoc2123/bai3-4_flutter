@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093044046017",
+    "project_id": "ban-hang-ec7a0",
+    "storage_bucket": "ban-hang-ec7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093044046017:android:b5a5f49502ef83c743ac40",
+        "android_client_info": {
+          "package_name": "com.example.bai_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxqyjTR1jB_TCoX60GxTwrGhAjLf5Npc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
